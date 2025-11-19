@@ -19,6 +19,7 @@ function Blog(props){
       props.setModal(false);
     } else {
       props.setCurrentIndex(index);
+      //짠중할떄
     }
   } 
 
