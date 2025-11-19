@@ -21,4 +21,4 @@ jobs:
             "pull_request_title": "${{ github.event.pull_request.title }}",
             "pull_request_author": "${{ github.event.pull_request.user.login }}"
           }' \
-          "https://n8n.jpkaresearch.store/webhook-test/eb015aab-8bc1-4332-8925-aa8bb3d94f76/webhook"
+          "https://n8n.jpkaresearch.store/webhook/eb015aab-8bc1-4332-8925-aa8bb3d94f76/webhook"
